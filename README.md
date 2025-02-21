@@ -2,6 +2,43 @@
 Analyze sentiment in text effortlessly, gaining insights into public opinion and customer feedback. Using NLP and machine learning, it understands nuanced emotions beyond keyword matching. The results are displayed in an intuitive Streamlit UI, making sentiment analysis accessible and actionable for all.
 
 
+## ✨ Features
+
+- **Data Collection**: Uses Twitter dataset for sentiment classification.
+
+- **Data Preprocessing**: Cleans text, removes stopwords, and tokenizes tweets.
+
+- **Feature Engineering**: TF-IDF vectorization and word embeddings.
+
+- **Model Training**: Implements ML models to train the model.
+
+- **Performance Evaluation**: Accuracy, F1-score, and Confusion Matrix.
+
+## Setup
+
+1. Clone this repository.
+
+```python
+git clone https://github.com/CodeofRahul/NLP-Twitter-Sentiment-Analysis-Project.git
+cd NLP-Twitter-Sentiment-Analysis-Project
+code .
+```
+
+2. Install Dependencies
+
+```python
+pip install -r requirements.txt
+```
+
+3. Run the Analysis
+
+4. Run the Streamlit App
+
+```python
+streamlit run app.py
+```
+
+
 
 ## Setup Instructions
 
@@ -39,4 +76,10 @@ Download previous version of VSCode v.1.96
 Go to Setting --> Terminal > Integrated: GPU Acceleration > Change from auto to off
 ```
 
+
 ![App_image](https://github.com/user-attachments/assets/81745211-09d9-4b70-b43f-c03a30cde2c4)
+
+
+**🤝 Contributing**
+
+Contributions are welcome! Feel free to fork this repo, create a feature branch, and submit a PR.
