@@ -39,3 +39,4 @@ Download previous version of VSCode v.1.96
 Go to Setting --> Terminal > Integrated: GPU Acceleration > Change from auto to off
 ```
 
+![App_image](https://github.com/user-attachments/assets/81745211-09d9-4b70-b43f-c03a30cde2c4)
